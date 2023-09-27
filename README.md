@@ -1,4 +1,4 @@
-# IT_ACADEMY_S4.01_N3_SpringPostman 
+# ISpring-Postman 
 
 ****POSTMAN************************************************************************************************************************************************
  Aplicación que se utiliza para probar y realizar solicitudes a APIs (Application Programming Interfaces) de forma fácil y eficiente.
@@ -27,8 +27,8 @@ Tendrás que entregar dos pantallazos, una por la ejecución de cada entorno, y 
 
 ## Enlaces
 
-   - [Enlace 1](https://desarrolloweb.com/articulos/como-usar-postman-probar-api)
-   - [Enlace 2](https://www.youtube.com/watch?v=FQAQO90LoQU)
+   - [Enlace Postman](https://desarrolloweb.com/articulos/como-usar-postman-probar-api)
+   - [Enlace Postman](https://www.youtube.com/watch?v=FQAQO90LoQU)
      
 ## Uso
 
